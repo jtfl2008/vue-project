@@ -1,0 +1,8 @@
+html,
+body,
+#app,
+.main-container {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}

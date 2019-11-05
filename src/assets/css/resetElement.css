@@ -1,0 +1,31 @@
+.el-container.is-vertical {
+  height: 100%;
+}
+.el-container.is-vertical .el-aside {
+  background-color: #2f3644;
+}
+.el-container.is-vertical .el-main {
+  padding: 0;
+}
+.el-scrollbar .el-scrollbar__wrap {
+  overflow-x: hidden;
+}
+.el-menu.side-nav {
+  overflow: hidden;
+}
+.el-menu.side-nav .el-submenu__title {
+  background-color: #2f3644;
+}
+/* .el-menu.side-nav .el-menu-item {
+  height: 44px;
+  line-height: 44px;
+} */
+.el-menu.side-nav .el-menu-item {
+  background: #2f3644;
+}
+.el-menu.side-nav .el-menu-item.is-active {
+  height: 44px;
+  background-color: #409eff;
+  color: #ffffff;
+  line-height: 44px;
+}
